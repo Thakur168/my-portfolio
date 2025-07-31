@@ -47,7 +47,7 @@ const projects = [
       "Personal portfolio website showcasing projects and skills with clean UI.",
     imageUrl: myPortfolio,
     demoUrl: "https://yourportfolio.com",
-    repoUrl: "https://github.com/yourusername/portfolio",
+    repoUrl: "https://github.com/Thakur168/my-portfolio",
   },
   {
     id: 5,
