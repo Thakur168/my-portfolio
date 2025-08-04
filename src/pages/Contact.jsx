@@ -27,8 +27,8 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-purple-100 py-16 px-6 md:px-20">
-      <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 bg-white shadow-xl rounded-3xl p-8">
+    <div className="min-h-screen from-gray-50 to-purple-100 py-16 px-6 md:px-20">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 bg-white shadow-xl rounded-3xl p-6 sm:p-8">
         {/* Left: Contact Info */}
         <div className="space-y-6">
           <h2 className="text-3xl font-bold text-purple-700">Let’s Connect</h2>
